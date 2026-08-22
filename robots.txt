@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://lucanplumbing.ca/sitemap-index.xml
