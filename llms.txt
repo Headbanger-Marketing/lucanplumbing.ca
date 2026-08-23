@@ -1,2 +1,25 @@
 # Lucan Plumbing
-HVAC services in Ontario.
+
+> Lucan Plumbing is a local HVAC company serving Lucan, Middlesex, Ontario, offering furnace repair, AC repair, ductless mini-split installation, heat pump repair and installation, fireplace installation, thermostat repair, and duct cleaning to homeowners across the region.
+
+Phone: (519) 227-4479  |  Email: contact@lucanplumbing.ca  |  Website: https://lucanplumbing.ca
+
+## Key pages
+
+- [Home](https://lucanplumbing.ca/): Lucan Plumbing homepage with service overview and FAQ
+- [About](https://lucanplumbing.ca/about/): About the company and service area
+- [Contact](https://lucanplumbing.ca/contact/): Request a free quote or service call
+
+## Services
+
+- [Water Heaters](https://lucanplumbing.ca/services/water-heaters/): Water Heaters in Lucan, Ontario
+- [Drain Cleaning](https://lucanplumbing.ca/services/drain-cleaning/): Drain Cleaning in Lucan, Ontario
+- [Repiping](https://lucanplumbing.ca/services/repiping/): Repiping in Lucan, Ontario
+- [Fixtures & Toilets](https://lucanplumbing.ca/services/fixtures-toilets/): Fixtures & Toilets in Lucan, Ontario
+- [Leak Detection & Repair](https://lucanplumbing.ca/services/leak-detection/): Leak Detection & Repair in Lucan, Ontario
+- [Sump Pumps & Backwater](https://lucanplumbing.ca/services/sump-pumps/): Sump Pumps & Backwater in Lucan, Ontario
+- [Water Softeners & Filtration](https://lucanplumbing.ca/services/water-softeners/): Water Softeners & Filtration in Lucan, Ontario
+
+## FAQ
+
+Common questions about HVAC service in Lucan are answered on the homepage.
